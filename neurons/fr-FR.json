@@ -1,0 +1,14 @@
+[
+  {
+    "id": "0",
+    "name": "Calendrier",
+    "raw": "calendar",
+    "description": "Controllez votre calendrier avec Onyx",
+    "url": "https://github.com/OnyxAI/calendar-neuron",
+    "img": "https://wildheartmedia.com/wp-content/uploads/2016/08/content-calendar-1200x675.png",
+    "version": "1.0.0",
+    "author": "Cassim Khouani",
+    "instruct": "",
+    "lang": "fr-FR"
+  }
+]
