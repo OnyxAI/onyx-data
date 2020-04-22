@@ -10,5 +10,29 @@
     "author": "Cassim Khouani",
     "instruct": "",
     "lang": "en-US"
+  },
+  {
+    "id": "1",
+    "name": "Weather",
+    "raw": "weather",
+    "description": "Get weather from Onyx",
+    "url": "https://github.com/OnyxAI/weather_neuron",
+    "img": "https://cdn2.iconfinder.com/data/icons/weather-flat-14/64/weather02-512.png",
+    "version": "1.0.0",
+    "author": "Cassim Khouani",
+    "instruct": "",
+    "lang": "en-US"
+  },
+  {
+    "id": "2",
+    "name": "Cloud",
+    "raw": "cloud",
+    "description": "Store your files on Onyx",
+    "url": "https://github.com/OnyxAI/cloud_neuron",
+    "img": "https://www.thecointribune.com/wp-content/uploads/2019/08/Hand_Cloud-1200x675.jpg",
+    "version": "1.0.0",
+    "author": "Cassim Khouani",
+    "instruct": "",
+    "lang": "en-US"
   }
 ]
