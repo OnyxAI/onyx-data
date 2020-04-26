@@ -34,5 +34,17 @@
     "author": "Cassim Khouani",
     "instruct": "",
     "lang": "fr-FR"
+  },
+  {
+    "id": "3",
+    "name": "Fitness",
+    "raw": "fitness",
+    "description": "Gère ton corps avec Onyx",
+    "url": "https://github.com/OnyxAI/fitness_neuron",
+    "img": "",
+    "version": "1.0.0",
+    "author": "Cassim Khouani",
+    "instruct": "",
+    "lang": "fr-FR"
   }
 ]
