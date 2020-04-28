@@ -46,5 +46,17 @@
     "author": "Cassim Khouani",
     "instruct": "",
     "lang": "fr-FR"
+  },
+  {
+    "id": "4",
+    "name": "Spotify",
+    "raw": "spotify",
+    "description": "Gère ta musique sur Onyx",
+    "url": "https://raw.githubusercontent.com/OnyxAI/onyx-data/master/assets/img/spotify.jpeg",
+    "img": "",
+    "version": "1.0.0",
+    "author": "Cassim Khouani",
+    "instruct": "",
+    "lang": "en-US"
   }
 ]
